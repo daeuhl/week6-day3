@@ -72,3 +72,14 @@ telnet
 scp
 sftp
 ssh
+
+pushd
+popd
+hostname
+xargs
+env
+export
+apropos
+sudo
+chsh
+launchctl
