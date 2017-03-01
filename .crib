@@ -83,3 +83,8 @@ apropos
 sudo
 chsh
 launchctl
+
+whois
+ping
+dig
+curl
